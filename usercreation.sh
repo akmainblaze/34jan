@@ -1,1 +1,1 @@
-sudo useradd mikaltuyr
+sudo useradd JAKSS
