@@ -1,1 +1,1 @@
-sudo useradd JAKSS
+sudo useradd J
