@@ -1,1 +1,1 @@
-sudo useradd mikaltuy
+sudo useradd mikaltuyr
